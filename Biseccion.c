@@ -1,3 +1,6 @@
+/*Busca raíces en un intervalo [a,b]*/
+
+
 #include <stdio.h>
 #include <math.h>
 

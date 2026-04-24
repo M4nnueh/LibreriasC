@@ -1,3 +1,4 @@
+/*error de redondeo (calcula error absoluto y negativo)*/
 #include <stdio.h>
 #include <math.h>
 

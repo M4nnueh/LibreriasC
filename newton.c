@@ -1,3 +1,5 @@
+/*algoritmo iterativo eficiente para encontrar aproximaciones 
+numéricas a las raíces (ceros) de funciones reales*/
 #include <stdio.h>
 #include <math.h>
 

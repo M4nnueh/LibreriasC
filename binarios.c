@@ -1,3 +1,4 @@
+/*convierte decimales a binarios y biceversa*/ 
 #include <stdio.h>
 #include <math.h>
 

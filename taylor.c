@@ -1,3 +1,4 @@
+/* usando polinomio de taylor aproxima E^x*/
 #include <stdio.h>
 #include <math.h>
 
