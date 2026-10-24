@@ -1,4 +1,11 @@
-/*convierte decimales a binarios y biceversa*/ 
+/**
+ * LibreriasC - binarios.c
+ * Convierte decimales a binarios y viceversa.
+ *
+ * Autores:
+ * - Manuel Alejandro Ramirez Bravo
+ * - Nicolas Lozano Salazar
+ */
 #include <stdio.h>
 #include <math.h>
 

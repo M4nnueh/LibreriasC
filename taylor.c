@@ -1,4 +1,11 @@
-/* usando polinomio de taylor aproxima E^x*/
+/**
+ * LibreriasC - taylor.c
+ * Aproximación de e^x usando polinomios de Taylor.
+ *
+ * Autores:
+ * - Manuel Alejandro Ramirez Bravo
+ * - Nicolas Lozano Salazar
+ */
 #include <stdio.h>
 #include <math.h>
 

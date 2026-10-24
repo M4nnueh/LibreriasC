@@ -1,4 +1,11 @@
-/*para encontrar raíces de ecuaciones no lineales*/
+/**
+ * LibreriasC - iteracion.c
+ * Método de punto fijo para encontrar raíces de ecuaciones no lineales.
+ *
+ * Autores:
+ * - Manuel Alejandro Ramirez Bravo
+ * - Nicolas Lozano Salazar
+ */
 #include <stdio.h>
 #include <math.h>
 

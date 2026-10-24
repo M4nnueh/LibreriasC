@@ -1,4 +1,11 @@
-/*error de redondeo (calcula error absoluto y negativo)*/
+/**
+ * LibreriasC - redondeo.c
+ * Error de redondeo: calcula error absoluto y relativo.
+ *
+ * Autores:
+ * - Manuel Alejandro Ramirez Bravo
+ * - Nicolas Lozano Salazar
+ */
 #include <stdio.h>
 #include <math.h>
 

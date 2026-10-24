@@ -1,6 +1,11 @@
-/*Busca raíces en un intervalo [a,b]*/
-
-
+/**
+ * LibreriasC - Biseccion.c
+ * Método de bisección: busca raíces en un intervalo [a, b].
+ *
+ * Autores:
+ * - Manuel Alejandro Ramirez Bravo
+ * - Nicolas Lozano Salazar
+ */
 #include <stdio.h>
 #include <math.h>
 

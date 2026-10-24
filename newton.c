@@ -1,5 +1,12 @@
-/*algoritmo iterativo eficiente para encontrar aproximaciones 
-numéricas a las raíces (ceros) de funciones reales*/
+/**
+ * LibreriasC - newton.c
+ * Método de Newton-Raphson: algoritmo iterativo para encontrar
+ * aproximaciones numéricas a las raíces de funciones reales.
+ *
+ * Autores:
+ * - Manuel Alejandro Ramirez Bravo
+ * - Nicolas Lozano Salazar
+ */
 #include <stdio.h>
 #include <math.h>
 
