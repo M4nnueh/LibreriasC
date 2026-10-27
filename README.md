@@ -1,6 +1,8 @@
 # LibreriasC
 
 Repositorio en GitHub para las librerías que se usarán en el aplicativo web.
+Repo de el proyecto:
+https://github.com/M4nnueh/Proyecto_analisis_numerico
 
 ## Autores
 - Manuel Alejandro Ramirez Bravo
